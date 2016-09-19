@@ -1,0 +1,23 @@
+{
+  "name": "logistics-school",
+  "version": "1.0.0",
+  "description": "Logistics School web site",
+  "main": "logistics-school.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nightspeller/logistics-school.git"
+  },
+  "author": "Serg Nights",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nightspeller/logistics-school/issues"
+  },
+  "homepage": "https://github.com/Nightspeller/logistics-school#readme",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.1"
+  }
+}
