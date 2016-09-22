@@ -58,6 +58,10 @@
   position: relative;
   font-weight: bold;
 }
+ymaps {
+  max-width: 400px !important;
+  max-height: 300px !important;
+}
 .school-navigation-row .is-activeafter {
   content: "";
   width: 70%;
