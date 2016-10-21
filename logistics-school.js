@@ -7,4 +7,4 @@ var app = connect();
 app.use(favicon(__dirname + '/public/favicon.ico'));
 
 app.use(serveStatic(__dirname+'/public', {'index': ['index.html']}));
-app.listen(3002);
+app.listen(3003);
