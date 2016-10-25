@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www.xn----7sbhdzihcxec9an7e\.xn--p1ai
+RewriteRule ^(.*)$ http://xn----7sbhdzihcxec9an7e.xn--p1ai/$1 [R=permanent,L]
+
+Redirect 301 /index.html http://xn----7sbhdzihcxec9an7e.xn--p1ai/
