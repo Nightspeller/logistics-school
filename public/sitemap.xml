@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/</loc>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/index.html/</loc>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/advantages.html/</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/program.html/</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/price.html/</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/reviews.html/</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://xn----7sbhdzihcxec9an7e.xn--p1ai/contact.html/</loc>
+		<priority>0.5</priority>
+	</url>
+</urlset>
