@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Nightspeller/logistics-school#readme",
   "dependencies": {
-    "connect": "^3.5.0",
-    "serve-favicon": "^2.3.0",
-    "serve-static": "^1.11.1"
+    "connect": "^3.6.6",
+    "serve-favicon": "^2.5.0",
+    "serve-static": "^1.13.2"
   }
 }
